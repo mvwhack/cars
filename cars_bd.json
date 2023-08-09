@@ -1,0 +1,109 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "title": "Acura",
+      "model": [
+        {"title": "MDX",
+         "generation": [
+           {"id": 1, 
+            "title": "I"
+           }, 
+           {"id": 2, 
+            "title": "II"
+           }, 
+           {"id": 3, 
+            "title": "III"
+           }
+         ]
+        },
+        {"title": "RDX",
+        "generation": [
+           {"id": 1, 
+            "title": "I"
+           }, 
+           {"id": 2, 
+            "title": "II"
+           }, 
+           {"id": 3, 
+            "title": "III"
+           }
+         ]
+        },
+        {"title": "RSX",
+        "generation": [
+           {"id": 1, 
+            "title": "I"
+           }, 
+           {"id": 1.5, 
+            "title": "I res"
+           }
+         ]
+        },
+        {"title": "ZDX",
+        "generation": [
+           {"id": 1, 
+            "title": "I"
+           }
+         ]
+        },
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Audi"
+    },
+    {
+      "id": 3,
+      "title": "BMW"
+    },
+    {
+      "id": 4,
+      "title": "Cadillac"
+    },
+    {
+      "id": 5,
+      "title": "Chery"
+    },
+    {
+      "id": 6,
+      "title": "Chevrolet"
+    },
+    {
+      "id": 7,
+      "title": "Citroen"
+    },
+    {
+      "id": 8,
+      "title": "Dodge"
+    },
+    {
+      "id": 9,
+      "title": "FIAT"
+    },
+    {
+      "id": 10,
+      "title": "Ford"
+    },
+    {
+      "id": 11,
+      "title": "Geely"
+    },
+    {
+      "id": 12,
+      "title": "Haval"
+    },
+    {
+      "id": 13,
+      "title": "Honda"
+    },
+    {
+      "id": 14,
+      "title": "Hummer"
+    },
+    {
+      "id": 15,
+      "title": "Hyundai"
+    },
+  ]
+}
