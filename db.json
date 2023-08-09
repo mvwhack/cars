@@ -2,7 +2,52 @@
   "cars": [
     {
       "id": 1,
-      "title": "Acura"
+      "title": "Acura",
+      "model": [
+        {"title": "MDX",
+         "generation": [
+           {"id": 1, 
+            "title": "I"
+           }, 
+           {"id": 2, 
+            "title": "II"
+           }, 
+           {"id": 3, 
+            "title": "III"
+           }
+         ]
+        },
+        {"title": "RDX",
+        "generation": [
+           {"id": 1, 
+            "title": "I"
+           }, 
+           {"id": 2, 
+            "title": "II"
+           }, 
+           {"id": 3, 
+            "title": "III"
+           }
+         ]
+        },
+        {"title": "RSX",
+        "generation": [
+           {"id": 1, 
+            "title": "I"
+           }, 
+           {"id": 1.5, 
+            "title": "I res"
+           }
+         ]
+        },
+        {"title": "ZDX",
+        "generation": [
+           {"id": 1, 
+            "title": "I"
+           }
+         ]
+        }
+      ]
     },
     {
       "id": 2,
